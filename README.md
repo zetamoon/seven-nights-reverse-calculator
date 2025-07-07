@@ -1,8 +1,6 @@
 # Seven Knights Reverse Stat Calculator
 
-This is a stat calculator for the game **Seven Knights**, designed to help players optimize their character builds. It allows you to compare two different sets of stats (Set A and Set B) to see how changes affect your overall damage output.
-
-The "reverse" in the name implies that it helps you work backward from a desired damage output to see what stats are needed, or more accurately, it lets you reverse-engineer the best stat allocation by comparing different setups.
+This is a stat calculator for the game **Seven Knights Reverse**, designed to help players optimize their character builds. It allows you to compare two different sets of stats (Set A and Set B) to see how changes affect your overall damage output.
 
 ## Features
 
@@ -19,7 +17,7 @@ The "reverse" in the name implies that it helps you work backward from a desired
 
 1.  **Select a Set:** Choose either "Set A" or "Set B" to begin editing.
 2.  **Input Your Stats:** Fill in the input fields for the selected set. The stats are grouped into categories:
-    *   **Character Stats:** Your hero's primary stats.
+    *   **Character Stats:** Your character's primary stats.
     *   **Pet & Buffs:** Stats from your equipped pet and active buffs.
     *   **Enemy Stats / Debuffs:** The stats of the enemy you are targeting, including any debuffs applied to them.
 3.  **Analyze the Results:** The "Results" section will update automatically as you change the stats.
@@ -29,8 +27,8 @@ The "reverse" in the name implies that it helps you work backward from a desired
 
 ## Stat Definitions
 
-*   **기본(도감) 공격력 (Base Attack):** The base attack power of your hero, found in the codex.
-*   **스탯 공격력 (Stat Attack):** Additional attack power from equipment, accessories, etc.
+*   **기본(도감) 공격력 (Base Attack):** The base attack power of your character, found in the codex.
+*   **스탯 공격력 (Stat Attack):** The attack power after gaining additional attack power from equipment, accessories, etc. This is the number shown in the stat screen.
 *   **치명타 확률 (Crit Rate):** The chance to land a critical hit.
 *   **치명타 피해 (Crit Damage):** The damage multiplier applied on a critical hit.
 *   **약점 공격 확률 (Weakness Rate):** The chance to land a weakness attack.
